@@ -1,0 +1,13 @@
+[submodule "vendor/local-lib"]
+	path = vendor/local-lib
+	url = https://github.com/kuhlman-labs-org/test-dependency-target.git
+	branch = main
+
+[submodule "vendor/actions-checkout"]
+	path = vendor/actions-checkout
+	url = https://github.com/actions/checkout.git
+	branch = v3
+
+[submodule "vendor/octocat-hello-world"]
+	path = vendor/octocat-hello-world
+	url = https://github.com/octocat/Hello-World.git
